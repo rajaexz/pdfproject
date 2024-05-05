@@ -1,0 +1,142 @@
+{
+    "tab3": {
+        "live": "ప్రత్యక్షం",
+        "home": "హోమ్",
+        "upcoming": "రాబోయేది",
+        "finish": "పూర్తయింది",
+        "favteam": "ఇష్టమైన జట్టు",
+        "venue": "వేదిక",
+        "latnews": "తాజా వార్తలు",
+        "vmore": "మరిన్ని చూడండి",
+        "blog": "బ్లాగులు",
+        "aboutus": "మా గురించి",
+        "download": "డౌన్‌లోడ్ చేయండి",
+        "over": "పైగా",
+        "ouservice": "మా సేవలు"
+    },
+    "footer": {
+        "flive": "ప్రత్యక్షం",
+        "fabout": "మా గురించి",
+        "termc": "నిబంధన & షరతులు",
+        "ppolicy": "గోప్యతా విధానం",
+        "copyt": "కాపీరైట్",
+        "allrrser": "సర్వ హక్కులు ప్రత్యేకించబడినవి"
+    },
+    "header": {
+        "hlive": "ప్రత్యక్షం",
+        "hhome": "హోమ్",
+        "hnews": "వార్తలు",
+        "hblog": "బ్లాగు",
+        "hfixt": "ఫిక్స్చర్స్",
+        "hmore": "మరింత"
+    },
+    "tab4": {
+        "tfreslt": "ఫలితాలు",
+        "tfrupcom": "రాబోయేది",
+        "tfrall": "అన్నీ",
+        "tfrt10": "T10",
+        "tfrt20": "T20",
+        "tfrodi": "ODI",
+        "tfrtest": "పరీక్ష",
+        "tfrover": "పైగా",
+        "tfrfavteam": "ఇష్టమైన జట్టు",
+        "tfrodds": "అసమానత"
+    },
+    "tab5": {
+        "trseries": "ట్రెండింగ్ సిరీస్",
+        "teamranking": "జట్టు ర్యాంకింగ్",
+        "playerrank": "ప్లేయర్ ర్యాంకింగ్",
+        "applang": "యాప్ భాష",
+        "chtheme": "థీమ్ మార్చండి",
+        "premium": "ప్రీమియం",
+        "tb5visit": "సందర్శించండి",
+        "tb5fbook": "ఫేస్బుక్",
+        "tb5igram": "ఇన్స్టాగ్రామ్",
+        "tb5rateus": "మాకు రేట్ చేయండి",
+        "tb5aboutus": "మా గురించి",
+        "tb5tandc": "నిబంధన & షరతులు",
+        "tb5ppolicy": "గోప్యతా విధానం",
+        "tb5chfupd": "నవీకరణ కోసం తనిఖీ చేయండి",
+        "tb5reprob": "ఒక సమస్యను నివేదించండి",
+        "tb5invfrnd": "స్నేహితులను ఆహ్వానించండి",
+        "tb5setting":"సెట్టింగ్‌లు"
+    },
+    "aboutus": {
+        "aboutus": "మా గురించి"
+    },
+    "termandc": {
+        "termctext": "నిబంధనలు మరియు షరతులు"
+    },
+    "prvpolicy": {
+        "ppolicy": "గోప్యతా విధానం"
+    },
+    "trseries": {
+        "trendseries": "ట్రెండింగ్ సిరీస్",
+        "trmatch": "మ్యాచ్‌లు"
+    },
+    "teamranking": {
+        "tranking": "జట్టు ర్యాంకింగ్",
+        "trdetails": "ర్యాంకింగ్",
+        "trodi": "ODI",
+        "trtest": "పరీక్ష",
+        "trt20": "T20",
+        "trdpos": "స్థానం",
+        "trdteam": "జట్టు పేరు",
+        "trdrate": "రేటింగ్",
+        "trdpoint": "పాయింట్"
+    },
+    "plranking": {
+        "playerranking": "ప్లేయర్ ర్యాంకింగ్",
+        "pldetails": "ర్యాంకింగ్",
+        "plrbatname": "బ్యాట్స్ మాన్",
+        "plrbowler": "బౌలర్",
+        "plrallround": "ఆల్‌రౌండర్",
+        "plrodi": "ODI",
+        "plrtest": "పరీక్ష",
+        "plrt20": "T20",
+        "plrwomen": "మహిళల",
+        "pldrank": "ర్యాంక్",
+        "pldplname": "ప్లేయర్ పేరు",
+        "pldplcountry": "దేశం"
+    },
+    "trdetails": {
+        "trndupcom": "రాబోయేది",
+        "trndfavteam": "ఇష్టమైన జట్టు",
+        "trndodds": "అసమానత"
+    },
+    "livematch": {
+        "liveinfo": "సమాచారం",
+        "livelive": "ప్రత్యక్షం",
+        "livecom": "వ్యాఖ్యానం",
+        "livescard": "స్కోర్ కార్డు",
+        "liveodds": "అసమానత",
+        "liveptable": "పాయింట్ టేబుల్",
+        "livepl11": "ప్లేయింగ్ XI",
+        "liverefree": "రిఫ్రీ",
+        "liveupmire": "అంపైర్",
+        "livetupmire": "థర్డ్ అంపైర్",
+        "livesat": "గణాంకాలు",
+        "livepitch": "పిచ్ & వేదిక",
+        "livehtoh": "ప్రతి ఒక్కరికీ",
+        "liveover": "పైగా",
+        "livefavteam": "ఇష్టమైన బృందం",
+        "livebatter": "కొట్టు",
+        "livepship": "పి'షిప్",
+        "livenbtn": "తదుపరి బ్యాట్స్‌మన్",
+        "livebowl": "బౌలర్",
+        "livesession": "సెషన్",
+        "liveining1": "ఇన్నింగ్స్ 1",
+        "liveining2": "ఇన్నింగ్స్ 2",
+        "liveining3": "ఇన్నింగ్స్ 3",
+        "liveining4": "ఇన్నింగ్స్ 4",
+        "livebtname": "బ్యాట్స్‌మెన్ పేరు",
+        "liveteams": "జట్లు",
+        "liveballs": "బంతి",
+        "liverun": "పరుగు",
+        "livemtype": "మ్యాచ్ రకం",
+        "liveextra": "అదనపు",
+        "livefow": "వికెట్ పతనం",
+        "livescrrt": "వికెట్ పతనం",
+        "livenostat": "మ్యాచ్ గణాంకాలు అందుబాటులో లేవు"
+    }
+}

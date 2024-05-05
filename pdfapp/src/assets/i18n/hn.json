@@ -1,0 +1,142 @@
+{
+    "tab3": {
+        "live": "लाइव",
+        "home": "होम्‌",
+        "upcoming": "आगामी",
+        "finish": "समाप्त",
+        "favteam": "पसंदीदा",
+        "venue": "स्थान",
+        "latnews": "ताज़ा खबर",
+        "vmore": "और देखें",
+        "blog": "समाचार और लेख",
+        "aboutus": "हमारे बारे में",
+        "download": "डाउनलोड",
+        "over": "ओवर",
+        "ouservice": "हमारी सेवाएं"
+    },
+    "footer": {
+        "flive": "लाइव",
+        "fabout": "हमारे बारे में",
+        "termc": "नियम और शर्तें",
+        "ppolicy": "गोपनीयता नीति",
+        "copyt": "कॉपीराइट",
+        "allrrser": "सर्वाधिकार सुरक्षित"
+    },
+    "header": {
+        "hlive": "लाइव",
+        "hhome": "होम्‌",
+        "hnews": "खबर",
+        "hblog": "लेख",
+        "hfixt": "फिक्स्चर",
+        "hmore": "और देखें"
+    },
+    "tab4": {
+        "tfreslt": "नतीजा",
+        "tfrupcom": "आगामी",
+        "tfrall": "प्रत्येक",
+        "tfrt10": "टी10",
+        "tfrt20": "टी20",
+        "tfrodi": "वनडे",
+        "tfrtest": "टेस्ट",
+        "tfrover": "ओवर",
+        "tfrfavteam": "पसंदीदा",
+        "tfrodds": "संभावना"
+    },
+    "tab5": {
+        "trseries": "ट्रेंडिंग सीरीज",
+        "teamranking": "टीम रैंकिंग",
+        "playerrank": "खिलाड़ी रैंकिंग",
+        "applang": "ऐप भाषा",
+        "chtheme": "थीम परिवर्तन",
+        "premium": "प्रीमियम",
+        "tb5visit": "निरीक्षण",
+        "tb5fbook": "फेसबुक",
+        "tb5igram": "इंस्टाग्राम",
+        "tb5rateus": "हमें रेटिंग दें",
+        "tb5aboutus": "हमारे बारे में",
+        "tb5tandc": "नियम और शर्तें",
+        "tb5ppolicy": "गोपनीयता नीति",
+        "tb5chfupd": "अपडेट के लिये जांचें",
+        "tb5reprob": "समस्या के बारे में बताएं",
+        "tb5invfrnd": "मित्रों को आमंत्रित करें",
+        "tb5setting": "सेटिंग्स"
+    },
+    "aboutus": {
+        "aboutus": "हमारे बारे में"
+    },
+    "termandc": {
+        "termctext": "नियम और शर्तें"
+    },
+    "prvpolicy": {
+        "ppolicy": "गोपनीयता नीति"
+    },
+    "trseries": {
+        "trendseries": "ट्रेंडिंग सीरीज",
+        "trmatch": "मैच"
+    },
+    "teamranking": {
+        "tranking": "टीम रैंकिंग",
+        "trdetails": "रैंकिंग",
+        "trodi": "वनडे",
+        "trtest": "टेस्ट",
+        "trt20": "टी20",
+        "trdpos": "स्थिति",
+        "trdteam": "टीम का नाम",
+        "trdrate": "रेटिंग",
+        "trdpoint": "अंक"
+    },
+    "plranking": {
+        "playerranking": "खिलाड़ी रैंकिंग",
+        "pldetails": "रैंकिंग",
+        "plrbatname": "बल्लेबाज",
+        "plrbowler": "गेंदबाज",
+        "plrallround": "बहुमुखी",
+        "plrodi": "वनडे",
+        "plrtest": "टेस्ट",
+        "plrt20": "टी20",
+        "plrwomen": "महिलाओं की",
+        "pldrank": "स्थिति",
+        "pldplname": "खिलाड़ी का नाम",
+        "pldplcountry": "देश"
+    },
+    "trdetails": {
+        "trndupcom": "आगामी",
+        "trndfavteam": "पसंदीदा",
+        "trndodds": "संभावना"
+    },
+    "livematch": {
+        "liveinfo": "जानकारी",
+        "livelive": "लाइव",
+        "livecom": "कमेंटरी",
+        "livescard": "स्कोरकार्ड",
+        "liveodds": "संभावना",
+        "liveptable": "अंक तालिका",
+        "livepl11": "प्लेइंग इलेवन",
+        "liverefree": "रेफरी",
+        "liveupmire": "अंपायर",
+        "livetupmire": "तीसरा अंपायर",
+        "livesat": "आँकड़े",
+        "livepitch": "पिच और स्थल",
+        "livehtoh": "आमने सामने",
+        "liveover": "ओवर",
+        "livefavteam": "पसंदीदा",
+        "livebatter": "बल्लेबाज",
+        "livepship": "साझेदारी",
+        "livenbtn": "अगला बल्लेबाज",
+        "livebowl": "गेंदबाज",
+        "livesession": "सत्र",
+        "liveining1": "पारी 1",
+        "liveining2": "पारी 2",
+        "liveining3": "पारी 3",
+        "liveining4": "पारी 4",
+        "livebtname": "बल्लेबाज नाम",
+        "liveteams": "टीम्स",
+        "liveballs": "बॉल",
+        "liverun": "रन",
+        "livemtype": "मैच प्रकार",
+        "liveextra": "अतिरिक्त",
+        "livefow": "विकेट का गिरना",
+        "livescrrt": "स्कोर",
+        "livenostat": "मैच के आँकड़े उपलब्ध नहीं है।"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "tab3": {
+        "live": "തത്സമയം",
+        "home": "വീട്",
+        "upcoming": "വരാനിരിക്കുന്ന",
+        "finish": "തീർന്നു",
+        "favteam": "പ്രിയപ്പെട്ട ടീം",
+        "venue": "വേദി",
+        "latnews": "പുതിയ വാർത്ത",
+        "vmore": "കൂടുതൽ കാണു",
+        "blog": "ബ്ലോഗുകൾ",
+        "aboutus": "ഞങ്ങളേക്കുറിച്ച്",
+        "download": "ഡൗൺലോഡ്",
+        "over": "കഴിഞ്ഞു",
+        "ouservice": "ഞങ്ങളുടെ സേവനങ്ങൾ"
+    },
+    "footer": {
+        "flive": "തത്സമയം",
+        "fabout": "ഞങ്ങളേക്കുറിച്ച്",
+        "termc": "നിബന്ധനകളും വ്യവസ്ഥകളും",
+        "ppolicy": "സ്വകാര്യതാനയം",
+        "copyt": "പകർപ്പവകാശം",
+        "allrrser": "എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്തം"
+    },
+    "header": {
+        "hlive": "തത്സമയം",
+        "hhome": "വീട്",
+        "hnews": "വാർത്ത",
+        "hblog": "ബ്ലോഗ്",
+        "hfixt": "ഫിക്‌ചറുകൾ",
+        "hmore": "കൂടുതൽ"
+    },
+    "tab4": {
+        "tfreslt": "ഫലം",
+        "tfrupcom": "വരാനിരിക്കുന്ന",
+        "tfrall": "എല്ലാം",
+        "tfrt10": "ടി10",
+        "tfrt20": "ടി20",
+        "tfrodi": "ഏകദിനം",
+        "tfrtest": "ടെസ്റ്റ്",
+        "tfrover": "കഴിഞ്ഞു",
+        "tfrfavteam": "പ്രിയപ്പെട്ട ടീം",
+        "tfrodds": "സാധ്യതകൾ"
+    },
+    "tab5": {
+        "trseries": "ട്രെൻഡിംഗ് സീരീസ്",
+        "teamranking": "ടീം റാങ്കിംഗ്",
+        "playerrank": "കളിക്കാരുടെ റാങ്കിംഗ്",
+        "applang": "അപ്ലിക്കേഷൻ ഭാഷ",
+        "chtheme": "തീം മാറ്റുക",
+        "premium": "പ്രീമിയം",
+        "tb5visit": "സന്ദർശിക്കുക",
+        "tb5fbook": "ഫേസ്ബുക്ക്",
+        "tb5igram": "ഇൻസ്റ്റാഗ്രാം",
+        "tb5rateus": "ഞങ്ങളെ റേറ്റുചെയ്യുക",
+        "tb5aboutus": "ഞങ്ങളേക്കുറിച്ച്",
+        "tb5tandc": "നിബന്ധനകളും വ്യവസ്ഥകളും",
+        "tb5ppolicy": "സ്വകാര്യതാനയം",
+        "tb5chfupd": "അപ്ഡേറ്റ് പരിശോധിക്കുക",
+        "tb5reprob": "ഒരു പ്രശ്നം രേഖപ്പെടുത്തുക",
+        "tb5invfrnd": "സുഹൃത്തുക്കളെ ക്ഷണിക്കുക",
+        "tb5setting":"ക്രമീകരണങ്ങൾ"
+    },
+    "aboutus": {
+        "aboutus": "ഞങ്ങളേക്കുറിച്ച്"
+    },
+    "termandc": {
+        "termctext": "നിബന്ധനകളും വ്യവസ്ഥകളും"
+    },
+    "prvpolicy": {
+        "ppolicy": "സ്വകാര്യതാനയം"
+    },
+    "trseries": {
+        "trendseries": "ട്രെൻഡിംഗ് സീരീസ്",
+        "trmatch": "മത്സരങ്ങൾ"
+    },
+    "teamranking": {
+        "tranking": "ടീം റാങ്കിംഗ്",
+        "trdetails": "റാങ്കിങ്",
+        "trodi": "ഏകദിനം",
+        "trtest": "ടെസ്റ്റ്",
+        "trt20": "ടി20",
+        "trdpos": "സ്ഥാനം",
+        "trdteam": "ടീമിന്റെ പേര്",
+        "trdrate": "റേറ്റിംഗ്",
+        "trdpoint": "പോയിന്റ്"
+    },
+    "plranking": {
+        "playerranking": "കളിക്കാരുടെ റാങ്കിംഗ്",
+        "pldetails": "റാങ്കിങ്",
+        "plrbatname": "ബാറ്റ്സ്മാൻ",
+        "plrbowler": "ബൗളര്",
+        "plrallround": "എല്ലാ കാര്യങ്ങളിലും സാമര്ത്ഥ്യമുള്ള",
+        "plrodi": "ഏകദിനം",
+        "plrtest": "ടെസ്റ്റ്",
+        "plrt20": "ടി20",
+        "plrwomen": "സ്ത്രീകളുടെ",
+        "pldrank": "റാങ്ക്",
+        "pldplname": "കളിക്കാരന്റെ പേര്",
+        "pldplcountry": "രാജ്യം"
+    },
+    "trdetails": {
+        "trndupcom": "വരാനിരിക്കുന്ന",
+        "trndfavteam": "പ്രിയപ്പെട്ട ടീം",
+        "trndodds": "സാധ്യതകൾ"
+    },
+    "livematch": {
+        "liveinfo": "വിവരം",
+        "livelive": "തത്സമയം",
+        "livecom": "വ്യാഖ്യാനം",
+        "livescard": "സ്കോർകാർഡ്",
+        "liveodds": "സാധ്യതകൾ",
+        "liveptable": "പോയിന്റ് ടേബിൾ",
+        "livepl11": "പ്ലേയിംഗ് ഇലവൻ",
+        "liverefree": "റഫർ ചെയ്യുക",
+        "liveupmire": "അമ്പയർ",
+        "livetupmire": "തേർഡ് അമ്പയർ",
+        "livesat": "സ്ഥിതിവിവരക്കണക്ക്",
+        "livepitch": "പിച്ച് & വേദി",
+        "livehtoh": "ഇഞ്ചോടിഞ്ച്",
+        "liveover": "കഴിഞ്ഞു",
+        "livefavteam": "ഇഷ്ട ടീം",
+        "livebatter": "ബാറ്റർ",
+        "livepship": "പി'ഷിപ്പ്",
+        "livenbtn": "അടുത്ത ബാറ്റ്സ്മാൻ",
+        "livebowl": "ബൗളര്",
+        "livesession": "സെഷൻ",
+        "liveining1": "ഇന്നിംഗ് 1",
+        "liveining2": "ഇന്നിംഗ് 2",
+        "liveining3": "ഇന്നിംഗ് 3",
+        "liveining4": "ഇന്നിംഗ് 4",
+        "livebtname": "ബാറ്റ്സ്മാൻ പേര്",
+        "liveteams": "ടീമുകൾ",
+        "liveballs": "പന്ത്",
+        "liverun": "ഓടുക",
+        "livemtype": "പൊരുത്തം തരം",
+        "liveextra": "അധിക",
+        "livefow": "വിക്കറ്റ് വീഴ്ച",
+        "livescrrt": "സ്കോർ",
+        "livenostat": "പൊരുത്ത സ്ഥിതിവിവരക്കണക്കുകൾ ലഭ്യമല്ല"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "tab3": {
+        "live": "राहतात",
+        "home": "मुख्यपृष्ठ",
+        "upcoming": "आगामी",
+        "finish": "संपले",
+        "favteam": "आवडता संघ",
+        "venue": "ठिकाण",
+        "latnews": "ताजी बातमी",
+        "vmore": "अधिक प i हा",
+        "blog": "ब्लॉग",
+        "aboutus": "आमच्याबद्दल",
+        "download": "डाउनलोड करा",
+        "over": "ओव्हर",
+        "ouservice": "आमच्या सेवा"
+    },
+    "footer": {
+        "flive": "राहतात",
+        "fabout": "आमच्याबद्दल",
+        "termc": "अटी आणि नियम",
+        "ppolicy": "गोपनीयता धोरण",
+        "copyt": "कॉपीराइट",
+        "allrrser": "सर्व हक्क राखीव"
+    },
+    "header": {
+        "hlive": "राहतात",
+        "hhome": "मुख्यपृष्ठ",
+        "hnews": "बातम्या",
+        "hblog": "ब्लॉग",
+        "hfixt": "फिक्स्चर",
+        "hmore": "अधिक"
+    },
+    "tab4": {
+        "tfreslt": "परिणाम",
+        "tfrupcom": "आगामी",
+        "tfrall": "सर्व",
+        "tfrt10": "T10",
+        "tfrt20": "T20",
+        "tfrodi": "एकदिवसीय",
+        "tfrtest": "चाचणी",
+        "tfrover": "प्रती",
+        "tfrfavteam": "आवडता संघ",
+        "tfrodds": "शक्यता"
+    },
+    "tab5": {
+        "trseries": "ट्रेंडिंग मालिका",
+        "teamranking": "संघ रँकिंग",
+        "playerrank": "खेळाडू रँकिंग",
+        "applang": "अॅप भाषा",
+        "chtheme": "थीम बदला",
+        "premium": "प्रीमियम",
+        "tb5visit": "भेट",
+        "tb5fbook": "फेसबुक",
+        "tb5igram": "इंस्टाग्राम",
+        "tb5rateus": "आम्हाला रेट करा",
+        "tb5aboutus": "आमच्याबद्दल",
+        "tb5tandc": "अटी आणि नियम",
+        "tb5ppolicy": "गोपनीयता धोरण",
+        "tb5chfupd": "सुधारणा साठी तपासा",
+        "tb5reprob": "अडचण कळवा",
+        "tb5invfrnd": "मित्रांना आमंत्रित करा",
+        "tb5setting":"सेटिंग्ज"
+    },
+    "aboutus": {
+        "aboutus": "आमच्याबद्दल"
+    },
+    "termandc": {
+        "termctext": "अटी आणि नियम"
+    },
+    "prvpolicy": {
+        "ppolicy": "गोपनीयता धोरण"
+    },
+    "trseries": {
+        "trendseries": "ट्रेंडिंग मालिका",
+        "trmatch": "जुळतात"
+    },
+    "teamranking": {
+        "tranking": "संघ रँकिंग",
+        "trdetails": "रँकिंग",
+        "trodi": "एकदिवसीय",
+        "trtest": "चाचणी",
+        "trt20": "T20",
+        "trdpos": "स्थिती",
+        "trdteam": "संघाचे नाव",
+        "trdrate": "रेटिंग",
+        "trdpoint": "पॉइंट"
+    },
+    "plranking": {
+        "playerranking": "खेळाडू रँकिंग",
+        "pldetails": "रँकिंग",
+        "plrbatname": "फलंदाज",
+        "plrbowler": "गोलंदाज",
+        "plrallround": "अष्टपैलू",
+        "plrodi": "एकदिवसीय",
+        "plrtest": "चाचणी",
+        "plrt20": "T20",
+        "plrwomen": "महिलांचे",
+        "pldrank": "रँक",
+        "pldplname": "खेळाडूचे नाव",
+        "pldplcountry": "देश"
+    },
+    "trdetails": {
+        "trndupcom": "आगामी",
+        "trndfavteam": "आवडता संघ",
+        "trndodds": "शक्यता"
+    },
+    "livematch": {
+        "liveinfo": "माहिती",
+        "livelive": "राहतात",
+        "livecom": "भाष्य",
+        "livescard": "स्कोअरकार्ड",
+        "liveodds": "शक्यता",
+        "liveptable": "पॉइंट टेबल",
+        "livepl11": "प्लेइंग इलेव्हन",
+        "liverefree": "रिफ्री",
+        "liveupmire": "पंच",
+        "livetupmire": "थर्ड अंपायर",
+        "livesat": "स्टेट",
+        "livepitch": "खेळपट्टी आणि ठिकाण",
+        "livehtoh": "सामोरा समोर",
+        "liveover": "ओव्हर",
+        "livefavteam": "आवडती टीम",
+        "livebatter": "पिठात",
+        "livepship": "पी'शिप",
+        "livenbtn": "पुढचा फलंदाज",
+        "livebowl": "गोलंदाज",
+        "livesession": "सत्र",
+        "liveining1": "डाव १",
+        "liveining2": "इनिंग 2",
+        "liveining3": "डाव ३",
+        "liveining4": "डाव ४",
+        "livebtname": "फलंदाजाचे नाव",
+        "liveteams": "संघ",
+        "liveballs": "चेंडू",
+        "liverun": "धावणे",
+        "livemtype": "जुळणी प्रकार",
+        "liveextra": "अवांतर",
+        "livefow": "विकेट पडणे",
+        "livescrrt": "स्कोअर",
+        "livenostat": "जुळणी आकडेवारी उपलब्ध नाही"
+    }
+}

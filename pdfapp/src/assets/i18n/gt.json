@@ -1,0 +1,142 @@
+{
+    "tab3": {
+        "live": "જીવંત",
+        "home": "ઘર",
+        "upcoming": "આવનારી",
+        "finish": "સમાપ્ત",
+        "favteam": "મનપસંદ ટીમ",
+        "venue": "સ્થળ",
+        "latnews": "તાજી ખબર",
+        "vmore": "વધુ જોવો",
+        "blog": "બ્લોગ્સ",
+        "aboutus": "અમારા વિશે",
+        "download": "ડાઉનલોડ કરો",
+        "over": "ઉપર",
+        "ouservice": "અમારી સેવાઓ"
+    },
+    "footer": {
+        "flive": "જીવંત",
+        "fabout": "અમારા વિશે",
+        "termc": "ટર્મ અને શરતો",
+        "ppolicy": "ગોપનીયતા નીતિ",
+        "copyt": "કોપીરાઈટ",
+        "allrrser": "બધા હકો અમારી પાસે રાખેલા છે"
+    },
+    "header": {
+        "hlive": "જીવંત",
+        "hhome": "ઘર",
+        "hnews": "સમાચાર",
+        "hblog": "બ્લોગ",
+        "hfixt": "ફિક્સર",
+        "hmore": "વધુ"
+    },
+    "tab4": {
+        "tfreslt": "પરિણામો",
+        "tfrupcom": "આવનારી",
+        "tfrall": "બધા",
+        "tfrt10": "ટી10",
+        "tfrt20": "ટી20",
+        "tfrodi": "ઓડીઆઈ",
+        "tfrtest": "ટેસ્ટ",
+        "tfrover": "ઉપર",
+        "tfrfavteam": "મનપસંદ ટીમ",
+        "tfrodds": "મતભેદ"
+    },
+    "tab5": {
+        "trseries": "ટ્રેન્ડિંગ શ્રેણી",
+        "teamranking": "ટીમ રેન્કિંગ",
+        "playerrank": "પ્લેયર રેન્કિંગ",
+        "applang": "એપ્લિકેશન ભાષા",
+        "chtheme": "થીમ બદલો",
+        "premium": "પ્રીમિયમ",
+        "tb5visit": "મુલાકાત",
+        "tb5fbook": "ફેસબુક",
+        "tb5igram": "ઇન્સ્ટાગ્રામ",
+        "tb5rateus": "અમને રેટ કરો",
+        "tb5aboutus": "અમારા વિશે",
+        "tb5tandc": "ટર્મ અને શરતો",
+        "tb5ppolicy": "ગોપનીયતા નીતિ",
+        "tb5chfupd": "અપડેટ માટે તપાસો",
+        "tb5reprob": "સમસ્યાનો અહેવાલ આપો",
+        "tb5invfrnd": "મિત્રોને આમંત્રિત કરો",
+        "tb5setting":"સેટિંગ્સ"
+    },
+    "aboutus": {
+        "aboutus": "અમારા વિશે"
+    },
+    "termandc": {
+        "termctext": "ટર્મ અને શરતો"
+    },
+    "prvpolicy": {
+        "ppolicy": "ગોપનીયતા નીતિ"
+    },
+    "trseries": {
+        "trendseries": "ટ્રેન્ડિંગ શ્રેણી",
+        "trmatch": "મેચ"
+    },
+    "teamranking": {
+        "tranking": "ટીમ રેન્કિંગ",
+        "trdetails": "રેન્કિંગ",
+        "trodi": "ઓડીઆઈ",
+        "trtest": "ટેસ્ટ",
+        "trt20": "ટી20",
+        "trdpos": "પદ",
+        "trdteam": "ટુકડીનું નામ",
+        "trdrate": "રેટિંગ",
+        "trdpoint": "બિંદુ"
+    },
+    "plranking": {
+        "playerranking": "પ્લેયર રેન્કિંગ",
+        "pldetails": "રેન્કિંગ",
+        "plrbatname": "બેટ્સમેન",
+        "plrbowler": "બોલર",
+        "plrallround": "દરેક કાર્યમાં કુશળ",
+        "plrodi": "ODI",
+        "plrtest": "ટેસ્ટ",
+        "plrt20": "ટી20",
+        "plrwomen": "મહિલા",
+        "pldrank": "ક્રમ",
+        "pldplname": "પ્લેયરનું નામ",
+        "pldplcountry": "દેશ"
+    },
+    "trdetails": {
+        "trndupcom": "આવનારી",
+        "trndfavteam": "મનપસંદ ટીમ",
+        "trndodds": "મતભેદ"
+    },
+    "livematch": {
+        "liveinfo": "માહિતી",
+        "livelive": "જીવંત",
+        "livecom": "કોમેન્ટરી",
+        "livescard": "સ્કોરકાર્ડ",
+        "liveodds": "મતભેદ",
+        "liveptable": "પોઈન્ટ ટેબલ",
+        "livepl11": "પ્લેઇંગ ઇલેવન",
+        "liverefree": "મુક્ત",
+        "liveupmire": "અમ્પિરe",
+        "livetupmire": "થર્ડ અમ્પાયર",
+        "livesat": "સ્ટેટ",
+        "livepitch": "પિચ અને સ્થળ",
+        "livehtoh": "આમને સામને",
+        "liveover": "ઉપર",
+        "livefavteam": "ફેવ ટીમ",
+        "livebatter": "સખત મારપીટ",
+        "livepship": "પી'શિપ",
+        "livenbtn": "આગામી બેટ્સમેન",
+        "livebowl": "બોલર",
+        "livesession": "સત્ર",
+        "liveining1": "ઇનિંગ 1",
+        "liveining2": "ઇનિંગ 2",
+        "liveining3": "ઇનિંગ 3",
+        "liveining4": "ઇનિંગ 4",
+        "livebtname": "બેટ્સમેનનું નામ",
+        "liveteams": "ટીમો",
+        "liveballs": "દડો",
+        "liverun": "દોડવું",
+        "livemtype": "મેચ પ્રકાર",
+        "liveextra": "વધારાની",
+        "livefow": "વિકેટનું પતન",
+        "livescrrt": "સ્કોર",
+        "livenostat": "મેચના આંકડા ઉપલબ્ધ નથી"
+    }
+}

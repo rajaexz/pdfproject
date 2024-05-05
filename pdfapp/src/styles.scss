@@ -1,0 +1,141 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap-icons/font/bootstrap-icons.css"; // bootstrap icons
+@import '~ngx-toastr/toastr'; // toaster css
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.subheader {
+    font-size: 1rem;
+    color: #555;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 1em 0;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+.container-fluid {
+    padding: 0;
+    overflow: hidden;
+}
+
+.bidf {
+    align-self: center;
+}
+
+
+// scss for table data
+.alldata {
+    margin: 1em .51em;
+}
+
+.btn-info {
+    color: #fff;
+    margin-right: 1em;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.btnrow {
+    margin-bottom: 1em;
+}
+
+.tablestyles {
+    border: 1px solid #dfe1ef;
+    font-size: 14px;
+    color: #555;
+}
+
+.iconscss {
+    color: #fff;
+    background: #192421; //#ef7d70;//royalblue;
+    font-size: .851em;
+    padding: 0.54em;
+    border-radius: 4px;
+    margin-right: 5px;
+    border: 1px solid transparent;
+    margin-bottom: 2px;
+
+    &:hover {
+        border: 1px solid #000;
+    }
+}
+
+.beforeicons {
+    width: 30px;
+}
+
+.uimg {
+    height: 30px;
+    width: 30px;
+    margin: auto;
+}
+
+.kycimg {
+    height: 70px;
+    width: 90%;
+}
+
+// end table data
+
+.ads {
+    font-size: 14px;
+    float: right;
+    margin-bottom: 10px;
+}
+
+// add users
+
+.inp1 {
+    font-size: 1rem;
+    color: #555;
+    margin: 6px 0;
+    // padding: 10px;
+}
+
+.lbgen {
+    font-size: 16px;
+    color: #555;
+    margin-left: 5px;
+}
+
+.gentext {
+    font-size: 17px;
+    color: #444;
+}
+
+.genrows {
+    margin: 13px 0;
+}
+
+.upldoc {
+    background: #f1f1f1;
+    padding: 10px 0;
+    margin: 0px;
+    margin-top: 1rem;
+}
+
+.sbtadd {
+    font-size: 1.2rem;
+    float: right;
+    height: 40px;
+    width: 100px;
+    margin-top: 2rem;
+}
+
+// end add user scss
+
+.bndf,
+.rowsdata,
+button {
+    background-color: #034281 !important;
+}

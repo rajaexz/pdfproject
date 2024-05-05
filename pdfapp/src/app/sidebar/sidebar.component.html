@@ -1,0 +1,61 @@
+<div class="container-fluid" id="mySidenav" *ngIf="sideBar" @check>
+    <div class="row">
+        <div class="col-3 sidenavdiv">
+            <ul class="ulclass">
+                <li (click)="gotoDashboard()">
+                    <i class="bi bi-grid-fill"></i>
+                    Dashboard
+                </li>
+                <!-- <li (click)="gotoBuser()">
+                    <i class="bi bi-app"></i>Basic UserList
+                </li> -->
+                <li  >
+                    <i class="bi bi-app"></i>App UserList
+                </li>
+                <li  >
+                    <i class="bi bi-laptop"></i>Web UserList
+                </li>
+                <li  >
+                    <i class="bi bi-person"></i>Premium Users List
+                </li>
+                <li  >
+                    <i class="bi bi-newspaper"></i>Blog List
+                </li>
+                <li  >
+                    <i class="bi bi-badge-ad"></i>Banner Ads List
+                </li>
+                <li >
+                    <i class="bi bi-badge-ad"></i>Display Ads List
+                </li>
+                <li >
+                    <i class="bi bi-camera-reels"></i>
+                    Shorts List
+                </li>
+                <li  >
+                    <i class="bi bi-bell-fill"></i>Send Notifications
+                </li>
+                <li  >
+                    <i class="bi bi-gear-fill"></i>App Settings<i class="bi bi-plus" *ngIf="showsetting"></i>
+                    <i class="bi bi-dash" *ngIf="hidesetting"></i>
+                </li>
+                <ul class="innerul" @check *ngIf="hidesetting">
+                    <li  >
+                        <i class="bi bi-receipt"></i>Term & Conditions
+                    </li>
+                    <li  >
+                        <i class="bi bi-receipt"></i>About Us
+                    </li>
+                    <li  >
+                        <i class="bi bi-receipt"></i>Privacy Policy
+                    </li>
+                    <li  >
+                        <i class="bi bi-app"></i>App Versions
+                    </li>
+                </ul>
+                <li >
+                    <i class="bi bi-box-arrow-left"></i>Logout
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

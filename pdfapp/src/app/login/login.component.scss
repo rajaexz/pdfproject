@@ -1,0 +1,43 @@
+.inp4 {
+    font-size: 1rem;
+    color: #555;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.bndf {
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 500;
+    padding: 9px;
+    margin-top: 1em;
+}
+
+.imgs {
+    height: 100px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin-top: 1.5em;
+    margin-bottom: 3em;
+}
+
+.wlogin {
+    border: 1px solid #dfe1e5;
+    padding: 4em;
+    // position: relative;
+    // width: 100%;
+    // top: 50%;
+    // left: 0;
+    // transform: translateY(-35%);
+    border-radius: 10px;
+    margin-top: 1em;
+}
+
+@media screen and (max-width:575px) {
+    .wlogin {
+        border: none;
+        padding: 1em;
+        margin-bottom: 1em;
+    }
+}

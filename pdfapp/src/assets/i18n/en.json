@@ -1,0 +1,142 @@
+{
+    "tab3": {
+        "live": "Live",
+        "home": "Home",
+        "upcoming": "Upcoming",
+        "finish": "Finished",
+        "favteam": "Favourite",
+        "venue": "Venue",
+        "latnews": "Latest News",
+        "vmore": "View More",
+        "blog": "News & Article",
+        "aboutus": "About Us",
+        "download": "Download",
+        "over": "Over",
+        "ouservice": "Our Services"
+    },
+    "footer": {
+        "flive": "Live",
+        "fabout": "About Us",
+        "termc": "Term & Conditions",
+        "ppolicy": "Privacy Policy",
+        "copyt": "Copyrignt",
+        "allrrser": "All Rights Reserved"
+    },
+    "header": {
+        "hlive": "Live",
+        "hhome": "Home",
+        "hnews": "News",
+        "hblog": "Article",
+        "hfixt": "Matches",
+        "hmore": "More"
+    },
+    "tab4": {
+        "tfreslt": "Finished",
+        "tfrupcom": "Upcoming",
+        "tfrall": "All",
+        "tfrt10": "T10",
+        "tfrt20": "T20",
+        "tfrodi": "ODI",
+        "tfrtest": "Test",
+        "tfrover": "over",
+        "tfrfavteam": "Favourite",
+        "tfrodds": "Odds"
+    },
+    "tab5": {
+        "trseries": "Trending Series",
+        "teamranking": "Team Ranking",
+        "playerrank": "Player Ranking",
+        "applang": "App Language",
+        "chtheme": "Change Theme",
+        "premium": "Premium",
+        "tb5visit": "Visit",
+        "tb5fbook": "Facebook",
+        "tb5igram": "Instagram",
+        "tb5rateus": "Rate Us",
+        "tb5aboutus": "About Us",
+        "tb5tandc": "Term & Conditions",
+        "tb5ppolicy": "Privacy Policy",
+        "tb5chfupd": "Check For Update",
+        "tb5reprob": "Report A Problem",
+        "tb5invfrnd": "Invite Friends",
+        "tb5setting": "Settings"
+    },
+    "aboutus": {
+        "aboutus": "About Us"
+    },
+    "termandc": {
+        "termctext": "Term and Conditions"
+    },
+    "prvpolicy": {
+        "ppolicy": "Privacy Policy"
+    },
+    "trseries": {
+        "trendseries": "Trending Series",
+        "trmatch": "Matches"
+    },
+    "teamranking": {
+        "tranking": "Team Ranking",
+        "trdetails": "Ranking",
+        "trodi": "ODI",
+        "trtest": "Test",
+        "trt20": "T20",
+        "trdpos": "Position",
+        "trdteam": "Team Name",
+        "trdrate": "Rating",
+        "trdpoint": "Point"
+    },
+    "plranking": {
+        "playerranking": "Player Ranking",
+        "pldetails": "Ranking",
+        "plrbatname": "Batsman",
+        "plrbowler": "Bowler",
+        "plrallround": "Allrounder",
+        "plrodi": "ODI",
+        "plrtest": "Test",
+        "plrt20": "T20",
+        "plrwomen": "Women's",
+        "pldrank": "Rank",
+        "pldplname": "Player Name",
+        "pldplcountry": "Country"
+    },
+    "trdetails": {
+        "trndupcom": "Upcoming",
+        "trndfavteam": "Favourite",
+        "trndodds": "Odds"
+    },
+    "livematch": {
+        "liveinfo": "Info",
+        "livelive": "Live",
+        "livecom": "Commentary",
+        "livescard": "Scorecard",
+        "liveodds": "Odds",
+        "liveptable": "Point Table",
+        "livepl11": "Playing XI",
+        "liverefree": "Refree",
+        "liveupmire": "Umpire",
+        "livetupmire": "Thire Umpire",
+        "livesat": "Stat",
+        "livepitch": "Pitch & Venue",
+        "livehtoh": "Head to head",
+        "liveover": "Over",
+        "livefavteam": "Fav Team",
+        "livebatter": "Batter",
+        "livepship": "P'ship",
+        "livenbtn": "Next Batsman",
+        "livebowl": "Bowler",
+        "livesession": "Session",
+        "liveining1": "inning 1",
+        "liveining2": "inning 2",
+        "liveining3": "inning 3",
+        "liveining4": "inning 4",
+        "livebtname": "Batsman Name",
+        "liveteams": "Teams",
+        "liveballs": "Ball",
+        "liverun": "run",
+        "livemtype": "Match Type",
+        "liveextra": "Extra",
+        "livefow": "Fall of Wicket",
+        "livescrrt": "Score",
+        "livenostat": "Match Stats not available"
+    }
+}

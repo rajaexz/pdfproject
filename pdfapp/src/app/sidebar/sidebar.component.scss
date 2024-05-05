@@ -1,0 +1,106 @@
+ul {
+    list-style: none;
+
+    li {
+        // padding: 10px 0 10px 12px;
+        color: #d8dadc;
+        font-weight: 400;
+        font-size: 16px;
+        overflow: hidden;
+        text-transform: capitalize;
+        transition: all 0.8s;
+        cursor: pointer;
+        padding: 1em 10px;
+        border-bottom: 1px solid #444;
+
+        i {
+            margin-top: 4px;
+            color: #d8dadc;
+            font-size: 1.15rem;
+            margin-right: 10px;
+        }
+
+        // &:last-child {
+        //     border-bottom: none;
+        // }
+    }
+}
+
+.ulclass {
+    padding-left: 0;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+
+    li {
+        -webkit-transition: all 0.5s;
+        transition: all 0.5s;
+
+        &:hover {
+            background: #495665;
+            color: #fff !important;
+        }
+    }
+}
+
+.innerul {
+    transition: all 0.8s;
+    padding-left: 0;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+
+    li {
+        -webkit-transition: all 0.5s;
+        transition: all 0.5s;
+        padding-left: 2.5em;
+    }
+}
+
+.sidenavdiv {
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    font-family: Roboto;
+    background: #2a3542;
+    width: 280px;
+    transition: width .35s ease-in-out;
+    -webkit-transition: width .35s ease-in-out;
+    overflow: hidden;
+    display: inline-block;
+    height: calc(100vh - 70px);
+    position: fixed;
+    top: 70px;
+    left: 0;
+    -webkit-box-shadow: 2px 2px 5px rgb(0 0 0 / 10%);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 2px 2px 5px rgb(0 0 0 / 10%);
+    z-index: 11 !important;
+    overflow-y: scroll;
+    padding: 0;
+}
+
+.fa-plus,
+.fa-minus {
+    font-size: 0.75em !important;
+    float: right;
+    margin-top: 11px !important;
+}
+
+.fa-greater-than {
+    font-size: 10px !important;
+}
+
+.fa-greater-than,
+.fa-minus,
+.fa-plus {
+    color: #797979 !important;
+}
+
+.container-fluid {
+    margin-bottom: 0 !important;
+}
+.bi-dash,.bi-plus{
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: right;
+}

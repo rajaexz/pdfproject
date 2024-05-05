@@ -1,0 +1,142 @@
+{
+    "tab3": {
+        "live": "জীয়া",
+        "home": "ঘৰ",
+        "upcoming": "আগন্তুক",
+        "finish": "সমাপ্ত",
+        "favteam": "প্ৰিয় দল",
+        "venue": "স্থান",
+        "latnews": "শেহতীয়া বাতৰি",
+        "vmore": "অধিক দৰ্শন কৰক",
+        "blog": "ব্লগসমূহ",
+        "aboutus": "আমাৰ বিষয়ে",
+        "download": "ডাউনলোড কৰক",
+        "over": "অভাৰ",
+        "ouservice": "আমাৰ সেৱাসমূহ"
+    },
+    "footer": {
+        "flive": "জীয়া",
+        "fabout": "আমাৰ বিষয়ে",
+        "termc": "ম্যাদ আৰু নিয়মাৱলী",
+        "ppolicy": "গোপনীয়তা নীতি",
+        "copyt": "কপিৰিগন্ট",
+        "allrrser": "সকলো অধিকাৰ সংৰক্ষিত"
+    },
+    "header": {
+        "hlive": "জীয়া",
+        "hhome": "ঘৰ",
+        "hnews": "বাতৰি",
+        "hblog": "ব্লগ",
+        "hfixt": "ফিক্সাৰসমূহ",
+        "hmore": "অধিক"
+    },
+    "tab4": {
+        "tfreslt": "ফলাফলসমূহ",
+        "tfrupcom": "আগন্তুক",
+        "tfrall": "সকলো",
+        "tfrt10": "টি10",
+        "tfrt20": "টি-২০",
+        "tfrodi": "এদিনীয়া",
+        "tfrtest": "পৰীক্ষা",
+        "tfrover": "অভাৰ",
+        "tfrfavteam": "প্ৰিয় দল",
+        "tfrodds": "প্ৰতিকূলতা"
+    },
+    "tab5": {
+        "trseries": "ট্ৰেণ্ডিং শৃংখলা",
+        "teamranking": "দলৰ ৰেংকিং",
+        "playerrank": "খেলুৱৈৰ ৰেংকিং",
+        "applang": "এপ্প ভাষা",
+        "chtheme": "থীম সলনি কৰক",
+        "premium": "প্ৰিমিয়াম",
+        "tb5visit": "দৰ্শন কৰক",
+        "tb5fbook": "ফেচবুক",
+        "tb5igram": "ইনষ্টাগ্ৰাম",
+        "tb5rateus": "আমাক মূল্যাঙ্কন কৰক",
+        "tb5aboutus": "আমাৰ বিষয়ে",
+        "tb5tandc": "ম্যাদ আৰু নিয়মাৱলী",
+        "tb5ppolicy": "গোপনীয়তা নীতি",
+        "tb5chfupd": "আপডেটৰ বাবে পৰীক্ষা কৰক",
+        "tb5reprob": "এটা সমস্যাৰ প্ৰতিবেদন কৰক",
+        "tb5invfrnd": "বন্ধুবৰ্গক আমন্ত্ৰণ কৰক",
+        "tb5setting":"সংহতিসমূহ"
+    },
+    "aboutus": {
+        "aboutus": "আমাৰ বিষয়ে"
+    },
+    "termandc": {
+        "termctext": "ম্যাদ আৰু নিয়মাৱলী"
+    },
+    "prvpolicy": {
+        "ppolicy": "গোপনীয়তা নীতি"
+    },
+    "trseries": {
+        "trendseries": "ট্ৰেণ্ডিং শৃংখলা",
+        "trmatch": "মিলসমূহ"
+    },
+    "teamranking": {
+        "tranking": "দলৰ ৰেংকিং",
+        "trdetails": "ৰেংকিং",
+        "trodi": "এদিনীয়া",
+        "trtest": "পৰীক্ষা",
+        "trt20": "টি-২০",
+        "trdpos": "অৱস্থান",
+        "trdteam": "দলৰ নাম",
+        "trdrate": "ৰেটিং",
+        "trdpoint": "বিন্দু"
+    },
+    "plranking": {
+        "playerranking": "খেলুৱৈৰ ৰেংকিং",
+        "pldetails": "ৰেংকিং",
+        "plrbatname": "বেটছমেন",
+        "plrbowler": "বলাৰ",
+        "plrallround": "অলৰাউণ্ডাৰ",
+        "plrodi": "এদিনীয়া",
+        "plrtest": "পৰীক্ষা",
+        "plrt20": "টি-২০",
+        "plrwomen": "মহিলা",
+        "pldrank": "স্থান",
+        "pldplname": "খেলুৱৈৰ নাম",
+        "pldplcountry": "দেশ"
+    },
+    "trdetails": {
+        "trndupcom": "আগন্তুক",
+        "trndfavteam": "প্ৰিয় দল",
+        "trndodds": "প্ৰতিকূলতা"
+    },
+    "livematch": {
+        "liveinfo": "তথ্য",
+        "livelive": "জীয়া",
+        "livecom": "ভাষ্য",
+        "livescard": "স্কোৰকাৰ্ড",
+        "liveodds": "প্ৰতিকূলতা",
+        "liveptable": "বিন্দু তালিকা",
+        "livepl11": "প্লেয়িং ইলেভেন",
+        "liverefree": "পুনৰ মুক্ত",
+        "liveupmire": "আম্পায়াৰ",
+        "livetupmire": "থিৰে আম্পায়াৰ",
+        "livesat": "ষ্টেট",
+        "livepitch": "পিচ আৰু স্থান",
+        "livehtoh": "মূৰৰ পৰা মূৰলৈ",
+        "liveover": "অভাৰ",
+        "livefavteam": "ফাভ দল",
+        "livebatter": "বেটাৰ",
+        "livepship": "পি'শিপ",
+        "livenbtn": "পৰৱৰ্তী বেটছমেন",
+        "livebowl": "বলাৰ",
+        "livesession": "অধিবেশন",
+        "liveining1": "ইনিং ১",
+        "liveining2": "ইনিং ২",
+        "liveining3": "ইনিং ৩",
+        "liveining4": "ইনিং ৪",
+        "livebtname": "বেটছমেনৰ নাম",
+        "liveteams": "দলসমূহ",
+        "liveballs": "বল",
+        "liverun": "চলাওক",
+        "livemtype": "মিল ৰ ধৰণ",
+        "liveextra": "অতিৰিক্ত",
+        "livefow": "উইকেটৰ পতন",
+        "livescrrt": "নম্বৰ",
+        "livenostat": "পৰিসংখ্যা মিলাওক"
+    }
+}

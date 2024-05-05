@@ -1,0 +1,143 @@
+{
+    "tab3": {
+        "live": "লাইভ দেখান",
+        "home": "বাড়ি",
+        "upcoming": "আসন্ন",
+        "finish": "সমাপ্ত",
+        "favteam": "প্রিয় দল",
+        "venue": "ভেন্যু",
+        "latnews": "সর্বশেষ সংবাদ",
+        "vmore": "আরো দেখুন",
+        "blog": "ব্লগ ",
+        "aboutus": "আমাদের সম্পর্কে",
+        "download": "ডাউনলোড করুন",
+        "over": "ওভার",
+        "ouservice": "আমাদের সেবাসমূহ"
+    },
+    "footer": {
+        "flive": "লাইভ দেখান",
+        "fabout": "আমাদের সম্পর্কে",
+        "termc": "মেয়াদ ও শর্তাবলী",
+        "ppolicy": "গোপনীয়তা নীতি",
+        "copyt": "কপিরাইট",
+        "allrrser": "সমস্ত অধিকার সংরক্ষিত"
+    },
+    "header": {
+        "hlive": "লাইভ দেখান",
+        "hhome": "বাড়ি",
+        "hnews": "খবর",
+        "hblog": "ব্লগ",
+        "hfixt": "ফিক্সচার",
+        "hmore": "আরও"
+    },
+    "tab4": {
+        "tfreslt": "ফলাফল",
+        "tfrupcom": "আসন্ন",
+        "tfrall": "সব",
+        "tfrt10": "T10",
+        "tfrt20": "টি-টোয়েন্টি",
+        "tfrodi": "ওডিআই",
+        "tfrtest": "পরীক্ষা",
+        "tfrover": "ওভার",
+        "tfrfavteam": "প্রিয় দল",
+        "tfrodds": "মতভেদ"
+    },
+    "tab5": {
+        "trseries": "ট্রেন্ডিং সিরিজ",
+        "teamranking": "টিম র‍্যাঙ্কিং",
+        "playerrank": "প্লেয়ার র‍্যাঙ্কিং",
+        "applang": "অ্যাপের ভাষা",
+        "chtheme": "থিম পরিবর্তন করো",
+        "premium": "প্রিমিয়াম",
+        "tb5visit": "ভিজিট করুন",
+        "tb5fbook": "ফেসবুক",
+        "tb5igram": "ইনস্টাগ্রাম",
+        "tb5rateus": "আমাদের ব্যাপারে আপনার মতামত দিন",
+        "tb5aboutus": "আমাদের সম্পর্কে",
+        "tb5tandc": "মেয়াদ ও শর্তাবলী",
+        "tb5ppolicy": "গোপনীয়তা নীতি",
+        "tb5chfupd": "আপডেটের জন্য চেক করুন",
+        "tb5reprob": "একটি সমস্যা রিপোর্ট করুন",
+        "tb5invfrnd": "বন্ধুদের আমন্ত্রণ জানান",
+        "tb5setting":"সেটিংস"
+        
+    },
+    "aboutus": {
+        "aboutus": "আমাদের সম্পর্কে"
+    },
+    "termandc": {
+        "termctext": "শর্তাবলী"
+    },
+    "prvpolicy": {
+        "ppolicy": "গোপনীয়তা নীতি"
+    },
+    "trseries": {
+        "trendseries": "ট্রেন্ডিং সিরিজ",
+        "trmatch": "মেলে"
+    },
+    "teamranking": {
+        "tranking": "টিম র‍্যাঙ্কিং",
+        "trdetails": "র‍্যাঙ্কিং",
+        "trodi": "ওডিআই",
+        "trtest": "পরীক্ষা",
+        "trt20": "টি-টোয়েন্টি",
+        "trdpos": "অবস্থান",
+        "trdteam": "দলের নাম",
+        "trdrate": "রেটিং",
+        "trdpoint": "বিন্দু"
+    },
+    "plranking": {
+        "playerranking": "প্লেয়ার র‍্যাঙ্কিং",
+        "pldetails": "র‍্যাঙ্কিং",
+        "plrbatname": "ব্যাটসম্যান",
+        "plrbowler": "বোলার",
+        "plrallround": "সবদিকে দক্ষ",
+        "plrodi": "ওডিআই",
+        "plrtest": "পরীক্ষা",
+        "plrt20": "টি-টোয়েন্টি",
+        "plrwomen": "মহিলাদের",
+        "pldrank": "পদমর্যাদা",
+        "pldplname": "প্লেয়ারের নাম",
+        "pldplcountry": "দেশ"
+    },
+    "trdetails": {
+        "trndupcom": "আসন্ন",
+        "trndfavteam": "প্রিয় দল",
+        "trndodds": "মতভেদ"
+    },
+    "livematch": {
+        "liveinfo": "তথ্য",
+        "livelive": "লাইভ দেখান",
+        "livecom": "ভাষ্য",
+        "livescard": "স্কোরকার্ড",
+        "liveodds": "মতভেদ",
+        "liveptable": "পয়েন্ট টেবিল",
+        "livepl11": "প্লেয়িং ইলেভেন",
+        "liverefree": "রিফ্রি",
+        "liveupmire": "আম্পায়ার",
+        "livetupmire": "তৃতীয় আম্পায়ার",
+        "livesat": "স্ট্যাট",
+        "livepitch": "পিচ ও ভেন্যু",
+        "livehtoh": "মুখোমুখি",
+        "liveover": "ওভার",
+        "livefavteam": "প্রিয় দল",
+        "livebatter": "প্রহার করা",
+        "livepship": "পি'শিপ",
+        "livenbtn": "পরবর্তী ব্যাটসম্যান",
+        "livebowl": "বোলার",
+        "livesession": "সেশন",
+        "liveining1": "ইনিংস 1",
+        "liveining2": "ইনিংস 2",
+        "liveining3": "ইনিংস 3",
+        "liveining4": "ইনিংস 4",
+        "livebtname": "ব্যাটসম্যানের নাম",
+        "liveteams": "দল",
+        "liveballs": "বল",
+        "liverun": "চালানো",
+        "livemtype": "মিলের ধরন",
+        "liveextra": "অতিরিক্ত",
+        "livefow": "উইকেটের পতন",
+        "livescrrt": "স্কোর",
+        "livenostat": "ম্যাচ পরিসংখ্যান উপলব্ধ নেই"
+    }
+}

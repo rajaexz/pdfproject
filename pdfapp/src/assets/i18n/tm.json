@@ -1,0 +1,142 @@
+{
+    "tab3": {
+        "live": "வாழ்க",
+        "home": "வீடு",
+        "upcoming": "வரவிருக்கிறது",
+        "finish": "முடிந்தது",
+        "favteam": "பிடித்த அணி",
+        "venue": "இடம்",
+        "latnews": "சமீபத்திய செய்திகள்",
+        "vmore": "மேலும் பார்க்க",
+        "blog": "வலைப்பதிவுகள்",
+        "aboutus": "எங்களை பற்றி",
+        "download": "பதிவிறக்க Tamil",
+        "over": "முடிந்துவிட்டது",
+        "ouservice": "எங்கள் சேவைகள்"
+    },
+    "footer": {
+        "flive": "வாழ்க",
+        "fabout": "எங்களை பற்றி",
+        "termc": "விதிமுறை மற்றும் நிபந்தனைகள்",
+        "ppolicy": "தனியுரிமைக் கொள்கை",
+        "copyt": "காப்புரிமை",
+        "allrrser": "அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை"
+    },
+    "header": {
+        "hlive": "வாழ்க",
+        "hhome": "வீடு",
+        "hnews": "செய்தி",
+        "hblog": "வலைப்பதிவு",
+        "hfixt": "பொருத்துதல்கள்",
+        "hmore": "மேலும்"
+    },
+    "tab4": {
+        "tfreslt": "முடிவுகள்",
+        "tfrupcom": "வரவிருக்கிறது",
+        "tfrall": "அனைத்து",
+        "tfrt10": "டி10",
+        "tfrt20": "டி20",
+        "tfrodi": "ODI",
+        "tfrtest": "சோதனை",
+        "tfrover": "முடிந்துவிட்டது",
+        "tfrfavteam": "பிடித்த அணி",
+        "tfrodds": "முரண்பாடுகள்"
+    },
+    "tab5": {
+        "trseries": "ட்ரெண்டிங் தொடர்",
+        "teamranking": "அணி தரவரிசை",
+        "playerrank": "வீரர் தரவரிசை",
+        "applang": "பயன்பாட்டு மொழி",
+        "chtheme": "தீம் மாற்றவும்",
+        "premium": "பிரீமியம்",
+        "tb5visit": "வருகை",
+        "tb5fbook": "முகநூல்",
+        "tb5igram": "Instagram",
+        "tb5rateus": "எங்களை மதிப்பிடு",
+        "tb5aboutus": "எங்களை பற்றி",
+        "tb5tandc": "விதிமுறை மற்றும் நிபந்தனைகள்",
+        "tb5ppolicy": "தனியுரிமைக் கொள்கை",
+        "tb5chfupd": "மேம்படுத்தல் சோதிக்க",
+        "tb5reprob": "ஒரு சிக்கலைப் புகாரளிக்கவும்",
+        "tb5invfrnd": "நண்பர்களை அழைக்க",
+        "tb5setting":"அமைப்புகள்"
+    },
+    "aboutus": {
+        "aboutus": "எங்களை பற்றி"
+    },
+    "termandc": {
+        "termctext": "கால மற்றும் நிபந்தனைகள்"
+    },
+    "prvpolicy": {
+        "ppolicy": "தனியுரிமைக் கொள்கை"
+    },
+    "trseries": {
+        "trendseries": "ட்ரெண்டிங் தொடர்",
+        "trmatch": "போட்டிகளில்"
+    },
+    "teamranking": {
+        "tranking": "அணி தரவரிசை",
+        "trdetails": "தரவரிசை",
+        "trodi": "ODI",
+        "trtest": "சோதனை",
+        "trt20": "டி20",
+        "trdpos": "பதவி",
+        "trdteam": "குழு பெயர்",
+        "trdrate": "மதிப்பீடு",
+        "trdpoint": "புள்ளி"
+    },
+    "plranking": {
+        "playerranking": "வீரர் தரவரிசை",
+        "pldetails": "தரவரிசை",
+        "plrbatname": "பேட்ஸ்மேன்",
+        "plrbowler": "பந்து வீச்சாளர்",
+        "plrallround": "ஆல்ரவுண்டர்",
+        "plrodi": "ODI",
+        "plrtest": "சோதனை",
+        "plrt20": "டி20",
+        "plrwomen": "பெண்கள்",
+        "pldrank": "தரவரிசை",
+        "pldplname": "வீரர் பெயர்",
+        "pldplcountry": "நாடு"
+    },
+    "trdetails": {
+        "trndupcom": "வரவிருக்கிறது",
+        "trndfavteam": "பிடித்த அணி",
+        "trndodds": "முரண்பாடுகள்"
+    },
+    "livematch": {
+        "liveinfo": "தகவல்",
+        "livelive": "வாழ்க",
+        "livecom": "வர்ணனை",
+        "livescard": "மதிப்பெண் அட்டை",
+        "liveodds": "முரண்பாடுகள்",
+        "liveptable": "புள்ளி அட்டவணை",
+        "livepl11": "விளையாடும் XI",
+        "liverefree": "ரெஃப்ரீ",
+        "liveupmire": "நடுவர்",
+        "livetupmire": "மூன்றாவது நடுவர்",
+        "livesat": "புள்ளிவிவரம்",
+        "livepitch": "பிட்ச் & இடம்",
+        "livehtoh": "நேருக்கு நேர்",
+        "liveover": "முடிந்துவிட்டது",
+        "livefavteam": "பிடித்த குழு",
+        "livebatter": "இடி",
+        "livepship": "பி'ஷிப்",
+        "livenbtn": "அடுத்த பேட்ஸ்மேன்",
+        "livebowl": "பந்து வீச்சாளர்",
+        "livesession": "அமர்வு",
+        "liveining1": "இன்னிங் 1",
+        "liveining2": "இன்னிங் 2",
+        "liveining3": "இன்னிங் 3",
+        "liveining4": "இன்னிங் 4",
+        "livebtname": "பேட்ஸ்மேன் பெயர்",
+        "liveteams": "அணிகள்",
+        "liveballs": "பந்து",
+        "liverun": "ஓடு",
+        "livemtype": "போட்டி வகை",
+        "liveextra": "கூடுதல்",
+        "livefow": "விக்கெட் வீழ்ச்சி",
+        "livescrrt": "மதிப்பெண்",
+        "livenostat": "போட்டி புள்ளிவிவரங்கள் கிடைக்கவில்லை"
+    }
+}

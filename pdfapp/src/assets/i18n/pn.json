@@ -1,0 +1,142 @@
+{
+    "tab3": {
+        "live": "ਲਾਈਵ",
+        "home": "ਘਰ",
+        "upcoming": "ਆਗਾਮੀ",
+        "finish": "ਸਮਾਪਤ",
+        "favteam": "ਮਨਪਸੰਦ ਟੀਮ",
+        "venue": "ਸਥਾਨ",
+        "latnews": "ਤਾਜ਼ਾ ਖ਼ਬਰਾਂ",
+        "vmore": "ਹੋਰ ਵੇਖੋ",
+        "blog": "ਬਲੌਗ",
+        "aboutus": "ਸਾਡੇ ਬਾਰੇ",
+        "download": "ਡਾਊਨਲੋਡ ਕਰੋ",
+        "over": "ਵੱਧ",
+        "ouservice": "ਸਾਡੀ ਸੇਵਾਵਾਂ"
+    },
+    "footer": {
+        "flive": "ਲਾਈਵ",
+        "fabout": "ਸਾਡੇ ਬਾਰੇ",
+        "termc": "ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ",
+        "ppolicy": "ਪਰਾਈਵੇਟ ਨੀਤੀ",
+        "copyt": "ਕਾਪੀਰਾਈਟ",
+        "allrrser": "ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ"
+    },
+    "header": {
+        "hlive": "ਲਾਈਵ",
+        "hhome": "ਘਰ",
+        "hnews": "ਖ਼ਬਰਾਂ",
+        "hblog": "ਬਲੌਗ",
+        "hfixt": "ਫਿਕਸਚਰ",
+        "hmore": "ਹੋਰ"
+    },
+    "tab4": {
+        "tfreslt": "ਨਤੀਜੇ",
+        "tfrupcom": "ਆਗਾਮੀ",
+        "tfrall": "ਸਾਰੇ",
+        "tfrt10": "T10",
+        "tfrt20": "ਟੀ-20",
+        "tfrodi": "ਓ.ਡੀ.ਆਈ",
+        "tfrtest": "ਟੈਸਟ",
+        "tfrover": "ਵੱਧ",
+        "tfrfavteam": "ਮਨਪਸੰਦ ਟੀਮ",
+        "tfrodds": "ਔਕੜਾਂ"
+    },
+    "tab5": {
+        "trseries": "ਪ੍ਰਚਲਿਤ ਸੀਰੀਜ਼",
+        "teamranking": "ਟੀਮ ਰੈਂਕਿੰਗ",
+        "playerrank": "ਪਲੇਅਰ ਰੈਂਕਿੰਗ",
+        "applang": "ਐਪ ਭਾਸ਼ਾ",
+        "chtheme": "ਥੀਮ ਬਦਲੋ",
+        "premium": "ਪ੍ਰੀਮੀਅਮ",
+        "tb5visit": "ਫੇਰੀ",
+        "tb5fbook": "ਫੇਸਬੁੱਕ",
+        "tb5igram": "Instagram",
+        "tb5rateus": "ਸਾਨੂੰ ਦਰਜਾ ਦਿਓ",
+        "tb5aboutus": "ਸਾਡੇ ਬਾਰੇ",
+        "tb5tandc": "ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ",
+        "tb5ppolicy": "ਪਰਾਈਵੇਟ ਨੀਤੀ",
+        "tb5chfupd": "ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰੋ",
+        "tb5reprob": "ਇੱਕ ਸਮੱਸਿਆ ਦੀ ਰਿਪੋਰਟ ਕਰੋ",
+        "tb5invfrnd": "ਦੋਸਤਾਂ ਨੂੰ ਸੱਦਾ ਦਿਓ",
+        "tb5setting": "ਸੈਟਿੰਗਾਂ"
+    },
+    "aboutus": {
+        "aboutus": "ਸਾਡੇ ਬਾਰੇ"
+    },
+    "termandc": {
+        "termctext": "ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ"
+    },
+    "prvpolicy": {
+        "ppolicy": "ਪਰਾਈਵੇਟ ਨੀਤੀ"
+    },
+    "trseries": {
+        "trendseries": "ਪ੍ਰਚਲਿਤ ਸੀਰੀਜ਼",
+        "trmatch": "ਮੈਚ"
+    },
+    "teamranking": {
+        "tranking": "ਟੀਮ ਰੈਂਕਿੰਗ",
+        "trdetails": "ਦਰਜਾਬੰਦੀ",
+        "trodi": "ਓ.ਡੀ.ਆਈ",
+        "trtest": "ਟੈਸਟ",
+        "trt20": "ਟੀ-20",
+        "trdpos": "ਸਥਿਤੀ",
+        "trdteam": "ਟੀਮ ਦਾ ਨਾਮ",
+        "trdrate": "ਰੇਟਿੰਗ",
+        "trdpoint": "ਬਿੰਦੂ"
+    },
+    "plranking": {
+        "playerranking": "ਪਲੇਅਰ ਰੈਂਕਿੰਗ",
+        "pldetails": "ਦਰਜਾਬੰਦੀ",
+        "plrbatname": "ਬੱਲੇਬਾਜ਼",
+        "plrbowler": "ਗੇਂਦਬਾਜ਼",
+        "plrallround": "ਆਲਰਾਊਂਡਰ",
+        "plrodi": "ਓ.ਡੀ.ਆਈ",
+        "plrtest": "ਟੈਸਟ",
+        "plrt20": "ਟੀ-20",
+        "plrwomen": "ਔਰਤਾਂ ਦੀ",
+        "pldrank": "ਰੈਂਕ",
+        "pldplname": "ਖਿਡਾਰੀ ਦਾ ਨਾਮ",
+        "pldplcountry": "ਦੇਸ਼"
+    },
+    "trdetails": {
+        "trndupcom": "ਆਗਾਮੀ",
+        "trndfavteam": "ਮਨਪਸੰਦ ਟੀਮ",
+        "trndodds": "ਔਕੜਾਂ"
+    },
+    "livematch": {
+        "liveinfo": "ਜਾਣਕਾਰੀ",
+        "livelive": "ਲਾਈਵ",
+        "livecom": "ਟਿੱਪਣੀ",
+        "livescard": "ਸਕੋਰਕਾਰਡ",
+        "liveodds": "ਔਕੜਾਂ",
+        "liveptable": "ਪੁਆਇੰਟ ਟੇਬਲ",
+        "livepl11": "ਪਲੇਇੰਗ ਇਲੈਵਨ",
+        "liverefree": "ਮੁਕਤ",
+        "liveupmire": "ਅੰਪਾਇਰ",
+        "livetupmire": "ਥਰਡ ਅੰਪਾਇਰ",
+        "livesat": "ਸਟੇਟ",
+        "livepitch": "ਪਿੱਚ ਅਤੇ ਸਥਾਨ",
+        "livehtoh": "ਸਿਰ ਤੋਂ ਸਿਰ",
+        "liveover": "ਵੱਧ",
+        "livefavteam": "ਮਨਪਸੰਦ ਟੀਮ",
+        "livebatter": "ਬੈਟਰ",
+        "livepship": "ਪੀ'ਸ਼ਿਪ",
+        "livenbtn": "ਅਗਲਾ ਬੱਲੇਬਾਜ਼",
+        "livebowl": "ਗੇਂਦਬਾਜ਼",
+        "livesession": "ਸੈਸ਼ਨ",
+        "liveining1": "ਪਾਰੀ 1",
+        "liveining2": "ਪਾਰੀ 2",
+        "liveining3": "ਪਾਰੀ 3",
+        "liveining4": "ਪਾਰੀ 4",
+        "livebtname": "ਬੱਲੇਬਾਜ਼ ਦਾ ਨਾਮ",
+        "liveteams": "ਟੀਮਾਂ",
+        "liveballs": "ਗੇਂਦ",
+        "liverun": "ਰਨ",
+        "livemtype": "ਮੈਚ ਦੀ ਕਿਸਮ",
+        "liveextra": "ਵਾਧੂ",
+        "livefow": "ਵਿਕਟ ਡਿੱਗਣਾ",
+        "livescrrt": "ਸਕੋਰ",
+        "livenostat": "ਮੈਚ ਅੰਕੜੇ ਉਪਲਬਧ ਨਹੀਂ ਹਨ"
+    }
+}
